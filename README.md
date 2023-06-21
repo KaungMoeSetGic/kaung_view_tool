@@ -15,7 +15,9 @@ If bundler is not being used to manage dependencies, install the gem by executin
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+@copyright = DevcampViewTool::Renderer.copyright 'Kaung Moe Set', 'All rights reserved'
+```
 
 ## Development
 
